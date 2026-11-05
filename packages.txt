@@ -1,0 +1,2 @@
+libgl1
+lbglib2.0-0
