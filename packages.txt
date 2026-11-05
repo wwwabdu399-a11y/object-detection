@@ -1,2 +1,2 @@
 libgl1
-lbglib2.0-0
+libglib2.0-0
